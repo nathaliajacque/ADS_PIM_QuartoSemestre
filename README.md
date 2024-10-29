@@ -1,4 +1,4 @@
-## 📫 Contribuindo para Estrela do Vale :frog:
+## 📫 Diagramas UML desenvolvido para a Fazenda Urbana Estrela do Vale :frog:
 
 Os diagramas UML (Unified Modeling Language) são fundamentais em projetos de desenvolvimento de software, pois facilitam a compreensão, o planejamento e a comunicação entre todos os envolvidos no projeto. 
 
@@ -10,6 +10,5 @@ Os diagramas UML (Unified Modeling Language) são fundamentais em projetos de de
 
 Como alternativa, baixe a documentação de todos os diagramas acima [Clique aqui para acessar](https://github.com/nathaliajacque/ADS_PIM_QuartoSemestre/blob/EstrelaDoVale/Fazenda%20Urbana%20-%20ECCO/Fazenda%20Urbana%20-%20ECCO.asta).
 
-## 🤝 Colaboradores
 
 
